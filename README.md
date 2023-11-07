@@ -1,2 +1,2 @@
-# crypto-trading
- crypto-trading
+# cryptotrading
+ crypto-trading-service
